@@ -2,3 +2,6 @@ body {
   background-color: #b6b6ff;
   text-align: center;
 }
+#result {
+  display: none;
+}
